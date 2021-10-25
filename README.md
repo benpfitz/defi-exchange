@@ -1,11 +1,11 @@
 # defi-exchange
 ### Commands
 
-- Install necessarily Node.js packages
+- Install necessary Node.js packages
 
       npm install
-
-- Deploy smart contracts to the Ethereum blockchain
+      
+- Deploy smart contracts to eth blockchain
 
       truffle migrate --reset
       
