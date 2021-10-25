@@ -1,4 +1,11 @@
 # defi-exchange
+
+### Prerequisites
+- Metamask linked with browser and on the ganache network tutorial here
+- https://gsthina.medium.com/connect-to-metamask-from-new-or-existing-web-application-with-truffle-and-ganache-f48aa763c0ac
+
+
+
 ### Commands
 
 - Install necessary Node.js packages
